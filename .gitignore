@@ -1,0 +1,5 @@
+/node_modules/
+.dcignore
+*.tgz
+newman/
+.idea
